@@ -13,7 +13,7 @@ end
 
 
 def word_substituter(string)
-  array = string.to_a
+  array = string.split
   
   
   
