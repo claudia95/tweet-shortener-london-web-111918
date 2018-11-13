@@ -17,7 +17,7 @@ end
 
 def word_substituter(string)
   array = string.split
-  if elements.include?(dictionary)
+  if elements.include?
   
   
   
